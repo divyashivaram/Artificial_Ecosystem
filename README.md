@@ -1,4 +1,4 @@
 Artificial_Ecosystem
 ====================
 
-An artificial ecosystem for explaining the concept of Adaptivity.
+An artificial ecosystem to explain the concept of Adaptivity.
